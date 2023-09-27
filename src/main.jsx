@@ -17,19 +17,19 @@ const router = createBrowserRouter([
     element: <App />,
   },
   {
-    path: "/e-comerce_site/Berinjela",
+    path: "/Berinjela",
     element: <Berinjela />,
   },
   {
-    path: "/e-comerce_site/Molho de Pimenta",
+    path: "/Molho de Pimenta",
     element: <Pimenta />,
   },
   {
-    path: "/e-comerce_site/Confit de Tomate",
+    path: "/Confit de Tomate",
     element: <Confit />,
   },
   {
-    path: "/e-comerce_site/Geleia de Abacaxi",
+    path: "/Geleia de Abacaxi",
     element: <Geleia />,
   },
 
