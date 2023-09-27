@@ -13,23 +13,23 @@ import {
 
 const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/e-comerce_site",
     element: <App />,
   },
   {
-    path: "Berinjela",
+    path: "/e-comerce_site/Berinjela",
     element: <Berinjela />,
   },
   {
-    path: "Molho de Pimenta",
+    path: "/e-comerce_site/Molho de Pimenta",
     element: <Pimenta />,
   },
   {
-    path: "Confit de Tomate",
+    path: "/e-comerce_site/Confit de Tomate",
     element: <Confit />,
   },
   {
-    path: "Geleia de Abacaxi",
+    path: "/e-comerce_site/Geleia de Abacaxi",
     element: <Geleia />,
   },
 
