@@ -6,7 +6,7 @@ const products = [
       name: 'Molho de Pimenta',
       href: '/Products/Pimenta',
       price: 'R$15',
-      imageSrc: './images/pimenta.HEIC',
+      imageSrc: '../images/pimenta.HEIC',
       imageAlt: 'Molho de Pimenta.',
     },
     {
@@ -14,7 +14,7 @@ const products = [
       name: 'Confit de Tomate',
       href: '/Products/Confit',
       price: 'R$20',
-      imageSrc: './images/confit.jpg',
+      imageSrc: '../images/confit.jpg',
       imageAlt: 'Confit de Tomate.',
     },
     {
@@ -22,7 +22,7 @@ const products = [
       name: 'Geleia de Abacaxi',
       href: '/Products/Geleia',
       price: 'R$20',
-      imageSrc: './images/geleia.HEIC',
+      imageSrc: '../images/geleia.HEIC',
       imageAlt: 'Geleia de Abacaxi.',
     },
     {
@@ -30,7 +30,7 @@ const products = [
       name: 'Berinjela',
       href: '/Products/Berinjela',
       price: 'R$15',
-      imageSrc: './images/berinjela.HEIC',
+      imageSrc: '../images/berinjela.HEIC',
       imageAlt: 'Berinjela.',
     },
     // More products...
