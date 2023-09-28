@@ -11,7 +11,7 @@ const Confit = () => {
       <Header />
       <div className='container grid lg:grid-cols-2 lg:grid-rows-3 grid-cols-1 grid-rows-1 w-full h-full justify-items-center items-center px-4 py-16'>
         <div className='image row-span-3'>
-            <img className="mx-auto aspect-h-1 aspect-w-1 w-1/2 overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7" src="/e-comerce_site/images/pimenta.HEIC" alt="Molho de Pimenta" />
+            <img className="mx-auto aspect-h-1 aspect-w-1 w-1/2 overflow-hidden rounded-lg bg-gray-200 xl:aspect-h-8 xl:aspect-w-7" src="/e-comerce_site/images/confit.jpg" alt="Molho de Pimenta" />
         </div>
         <div className='description row-span-2 '>
             <h1 className="text-3xl mt-5 lg:mt-0">Confit de Tomate</h1>
